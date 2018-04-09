@@ -1,1 +1,9 @@
-# This is a sample web site created by Eclipse.
+# これはサンプルWEBサイトです。
+＜主な機能＞
+・webスクレイピングによる他サイトのニュースのまとめ
+＜開発環境＞
+・Eclipse(4.6.3)
+＜ライブラリ＞
+・jsoup
+・taglibs
+レイアウトに関しては無料のテンプレートを使用
